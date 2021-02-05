@@ -1,6 +1,6 @@
 <?php
 
-namespace MoonPvPCore;
+namespace troll;
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\event\player\PlayerQuitEvent;
